@@ -1,5 +1,3 @@
-drop database lojaBrinquedos;
-create database lojaBrinquedos;
 
 USE lojaBrinquedos;
 

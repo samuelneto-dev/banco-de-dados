@@ -1,5 +1,3 @@
-DROP DATABASE biblioteca;
-CREATE DATABASE biblioteca;
 
 use biblioteca;
 
